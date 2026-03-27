@@ -1,0 +1,29 @@
+001,Arroz 1kg,20,30,50,Pieza,Despensa Básica,arroz.jpg
+002,Frijol 1kg,18,35,40,Pieza,Despensa Básica,frijol.jpg
+003,Azúcar 1kg,22,25,30,Pieza,Despensa Básica,azucar.jpg
+004,Aceite 1L,35,20,25,Litro,Despensa Básica,aceite.jpg
+005,Pasta 200g,10,40,60,Pieza,Despensa Básica,pasta.jpg
+
+006,Leche Entera,25,30,50,Litro,Lácteos y Huevo,leche.jpg
+007,Huevos 12pz,40,25,20,Pieza,Lácteos y Huevo,huevo.jpg
+008,Queso Fresco,30,30,15,Pieza,Lácteos y Huevo,queso.jpg
+009,Yogur Natural,12,35,35,Pieza,Lácteos y Huevo,yogur.jpg
+010,Mantequilla,28,25,10,Pieza,Lácteos y Huevo,mantequilla.jpg
+
+011,Agua 1L,10,50,100,Litro,Bebidas,bebida1.jpg
+012,Refresco 600ml,15,40,80,Pieza,Bebidas,bebida2.jpg
+013,Jugo 1L,20,30,60,Litro,Bebidas,bebida3.jpg
+014,Energética,25,35,40,Pieza,Bebidas,bebida4.jpg
+015,Café,45,20,20,Pieza,Bebidas,bebida5.jpg
+
+016,Papas,12,40,70,Pieza,Botanas y Dulces,papas.jpg
+017,Galletas,15,35,50,Pieza,Botanas y Dulces,galletas.jpg
+018,Chocolate,18,30,40,Pieza,Botanas y Dulces,chocolate.jpg
+019,Dulces,8,50,90,Pieza,Botanas y Dulces,dulces.jpg
+020,Nueces,20,25,30,Pieza,Botanas y Dulces,nueces.jpg
+
+021,Manzana,10,50,60,Pieza,Frutas y Verduras,manzana.jpg
+022,Plátano,8,60,70,Pieza,Frutas y Verduras,platano.jpg
+023,Zanahoria,6,50,80,Pieza,Frutas y Verduras,zanahoria.jpg
+024,Lechuga,7,45,40,Pieza,Frutas y Verduras,lechuga.jpg
+025,Cilantro,5,60,30,Pieza,Frutas y Verduras,cilantro.jpg
